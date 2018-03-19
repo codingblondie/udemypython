@@ -1,4 +1,4 @@
 # udemypython 
 
-# Instalaltion
- todo : write install guide
+# Instalation
+todo describe installation process
